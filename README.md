@@ -1,0 +1,2 @@
+# PollyCircuitBreaker1
+Circuit Breaker pattern is a popular design pattern used in Microservices Architecture under the Sustainable Design Patterns category. One service synchronously invokes another there is always the possibility that the other service is unavailable or is exhibiting such high latency it is essentially unusable.The failure of one service might lead to Cascading failures throughout the application.Circuit Breaker Design Pattern to overcome this problem.
